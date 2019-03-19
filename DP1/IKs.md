@@ -30,6 +30,12 @@ There are some backpack traveller’s burdens, time, cost, stress.
 |Hajun Kim              |Korea  |22 |Once a year        |              |
 |Yoseph Kurnia Soenggoro|Korea  |25 |Once every 3 month |              |
 
+Online survey (10 people)
+![1.png](./1.png)
+![2.png](./2.png)
+[Online survey link](https://goo.gl/forms/xRU3VWRuGyQMNqAi2)
+
+
 ### Interesting monents
 1. 
 
