@@ -70,8 +70,11 @@ Online survey (10 people)
 1. Need to specify target users.
     * Answer : The members already decided to specify the frequency of travel from once every six months to a more frequent basis.
 1. Need interviews towards the upper age limit of your target user. 
+    * Answer : It is true that our interviewee’s age range was too narrow. Therefore, we will conduct some more interviews for more broad age range.
 1. Need an acknowledgement of preexisting solutions and some insight as to why these needs persist despite the fact.
+    * Answer : Problem of preexisting solutions (such as ‘my real trip’ or ‘trip advisor’ is that information on these platforms is not reliable and outdated. To obtain updated and reliable information, we will serve information made by people who live in that country. 
 1. Need more detailed explanation on process how needs and insights comes
+    * Answer : Need and insight are made based on our interview results. Next time, it will be better using empathy map to categorize interview result to obtain needs and insights
 
 ## Summary
 
