@@ -59,8 +59,9 @@ There are some backpack traveller’s burdens, time, cost, stress.
 
 ## Feedback
 1. Need some interviewers towards the upper age limit of your target users
-    * vanswer 
+    * Answer : It is certainly a very good suggestion that might benefit the design process for the project. However, the time given in executing the work is very limited, therefore only those which have close relationship with the members are able to be interviewed.
 1. Need to specify target users.
+* Answer : The members already decided to specify the frequency of travel from once every six months to a more frequent basis.
 1. Need interviews towards the upper age limit of your target user. 
 1. Need an acknowledgement of preexisting solutions and some insight as to why these needs persist despite the fact.
 1. Need more detailed explanation on process how needs and insights comes
