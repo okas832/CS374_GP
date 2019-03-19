@@ -33,6 +33,9 @@ By observing the latest trend, it could be seen that numerous Korean young adult
 |Yoseph Kurnia Soenggoro|Korea  |25 |Once every 3 months |              |
 
 Online survey (10 people)
+
+<img src="./1.png" width="250"> <img src="./2.png" width="250"> <img src="./3.png" width="250">
+
 [Online survey link](https://goo.gl/forms/xRU3VWRuGyQMNqAi2)
 
 
