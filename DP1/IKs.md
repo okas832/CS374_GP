@@ -59,8 +59,11 @@ There are some backpack traveller’s burdens, time, cost, stress.
 
 ## Feedback
 1. Need some interviewers towards the upper age limit of your target users
-    * [//]: <> (TODO : address feedback)
-1. 
+    * vanswer 
+1. Need to specify target users.
+1. Need interviews towards the upper age limit of your target user. 
+1. Need an acknowledgement of preexisting solutions and some insight as to why these needs persist despite the fact.
+1. Need more detailed explanation on process how needs and insights comes
 
 ## Summary
 
