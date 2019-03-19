@@ -31,7 +31,8 @@ There are some backpack traveller’s burdens, time, cost, stress.
 |Yoseph Kurnia Soenggoro|Korea  |25 |Once every 3 month |              |
 
 ### Interesting monents
-1. 
+1. When Yoseph asked his interviewee whether if trip advisors were useful, he replied, "As an extreme user, planning for a trip is not hard. I don't think trip advisors are necessary." It turns out that extreme travelers don't feel the need for trip advisors. 
+2. Hajun improvised a contextual inquriry and asked his interviewee to plan the entire route for traveling to Chungnam Boryeong. He started by turning on a text editor and repeated searching and writing down where he wants to visit. When he finished writing down, he tried to find the optimized path but he was completely stuck because there were too much things to consider in terms of time, way and cost.
 
 ## Needs
 1. Need to reduce time packaging luggage.
