@@ -1,6 +1,6 @@
 # DP1 Report
-Team name : IKs
-Team member : Kyungmo Kim, Hajun Kim, Minyeop Choi, Yoseph Kurnia Soenggoro
+* Team name : IKs
+* Team member : Kyungmo Kim, Hajun Kim, Minyeop Choi, Yoseph Kurnia Soenggoro
 
 ## Experiences
 
