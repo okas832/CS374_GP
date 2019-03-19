@@ -3,6 +3,7 @@
 * Team member : Kyungmo Kim, Hajun Kim, Minyeop Choi, Yoseph Kurnia Soenggoro
 
 ## Experiences
+There are some backpack traveller’s burdens, time, cost, stress.
 
 ## Observation
 ### Interview Question
