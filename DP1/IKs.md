@@ -3,7 +3,9 @@
 * Team member : Kyungmo Kim, Hajun Kim, Minyeop Choi, Yoseph Kurnia Soenggoro
 
 ## Experiences
-There are some backpack traveller’s burdens, time, cost, stress.
+Before travelling, backpack traveller’s tend to be burdened by several aspects within their planning phase. In general, those burdens are: time, cost, stress. In order to improve the travelling experience, it is essential to reduce the burdens within the planning process. 
+
+By observing the latest trend, it could be seen that numerous Korean young adults are going backpack travel the world in a fast pace. Therefore, we will focus on reducing the burden of people who travel more frequently than one in six month. 
 
 ## Observation
 ### Interview Question
@@ -74,5 +76,5 @@ Online survey (10 people)
 1. Need more detailed explanation on process how needs and insights comes
     * Answer : Need and insight are made based on our interview results. Next time, it will be better using empathy map to categorize interview result to obtain needs and insights
 
-## Summary
+
 
