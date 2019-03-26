@@ -56,10 +56,10 @@ We also did brainstorming and voting for coming up with three best solutions. Th
 4.  Find other people online with similar travelling destination to go and travel together.
 5.  Create an environment where local people can be more open-minded to users so that users can immerse themselves with the existing local communities and live with them as if he/she is a part of it.
 6.  Show the user the total point (standards can vary, basically on activity, and other users’ opinion.) that she/he have earned from the trip, such that the user can compare the score with other travelers.
-7. Show other people’s picture to user in order to show how other travelers enjoy their trip with the same place.
+7. Show other people’s picture to users in order to show how other travelers enjoy their trip with the same place.
 8.  Encouraging cultural exchange (might be a little bit stressful for the users): introducing the user’s hometown unique objects, musics, or tradition with the local communities as an exchange of hospitality.
 9.  Enforce speed travelling: under certain time constraint, travelers can explore more destinations (might increase stress but probably in somehow enjoyable way)
-10.  Native offers the place to sleep to user, and in addition to that, natives can go to travel along with the user.
+10.  Native offers the place to sleep to users, and in addition to that, natives can go to travel along with the user.
 
 ### HMW assign a (virtual) guide for a specific location to each traveler?
 1.  Give a digital pamphlet providing information about the local place.
