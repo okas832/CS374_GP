@@ -10,7 +10,7 @@
 
 ## Prototype
 
-<img src="./1.JPG" height="200">
+<img src="./1.JPG" height="400">
 
 
 
