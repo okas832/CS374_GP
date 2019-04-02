@@ -26,7 +26,7 @@ If the user click 'sign up' button, then the user can fill out basic sign up for
 
 <img src="./4.JPG" height="400">
 
-After the user made their own account or sign in, the could check their profile. And menu bar on the left changed to 'Find Guide& Quest' , 'Current quest' and 'My page'
+After the user made their own account or sign in, then the user can check their profile. And menu bar on the left changed to 'Find Guide& Quest' , 'Current quest' and 'My page'
 
 <img src="./5.JPG" height="400">
 
