@@ -183,7 +183,7 @@ Follow your whole journey and memorize it
 
    
 
-**Task2: check the your quest, and suppose you accomplished your quest. Then upload your photo as proof of completion of the task **
+**Task2: check the your quest, and suppose you accomplished your quest. Then upload your photo as proof of completion of the task**
 
 1. Didn’t know the functionality of “I’ve done it” button In “My Quest” page because it was already colored green. 
 
