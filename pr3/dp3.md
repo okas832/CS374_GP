@@ -10,43 +10,43 @@
 
 ## Prototype
 
-<img align = "left" src="./1.JPG" height="200">
+<img src="./1.JPG" height="200">
 
 
 
 First page of our website. If the user clicks hamburger button on top right, then user can see 'sign in ' and 'sign up' button
 
-<img align = "left" src="./2.JPG" height="200">
+<img src="./2.JPG" height="200">
 
 If the user click 'sign in' button, then the user is moved on log in page
 
-<img align = "left" src="./3.JPG" height="200">
+<img src="./3.JPG" height="200">
 
 If the user click 'sign up' button, then the user can fill out basic sign up form
 
-<img align = "left" src="./4.JPG" height="200">
+<img src="./4.JPG" height="200">
 
 After the user made their own account or sign in, the could check their profile. And menu bar on the left changed to 'Find Guide& Quest' , 'Current quest' and 'My page'
 
-<img align = "left" src="./5.JPG" height="200">
+<img src="./5.JPG" height="200">
 
-<img align = "left" src="./6.JPG" height="200">
+<img src="./6.JPG" height="200">
 
 In 'Find Guide & Quest' on the menu, User can find local experts by adding filter of country, city, and preference. Information about top rated local experts is shown on the bottom of the web page.
 
 If user fill in these filters, the web page shows recommended local experts. If user click person's image, they can check the profile of local experts, and add quests made by them.
 
-<img align = "left" src="./7.JPG" height="200">
+<img src="./7.JPG" height="200">
 
-<img align = "left" src="./8.JPG" height="200">
+<img src="./8.JPG" height="200">
 
 Since user have chosen their quests, they could check them on 'My Quest' menu. When the user accomplished the quest, they can submit pictures and simple diary by clicking ' I've done it!' button. 
 
-<img align = "left" src="./10.jpg" width="400">
+<img src="./10.jpg" width="400">
 
 If the user click the red button beside ' I've done it!' button, they can check their current location, and quests venue on Google map.
 
-<img align = "left" src="./9.JPG" height="200">
+<img src="./9.JPG" height="200">
 
 Finally, if the user thinks that her/his trip is finished, then user press 'I finished trip!' button. Then web page shows the quest result, photos which were uploaded by the user, and brief summary of the trip. 
 
