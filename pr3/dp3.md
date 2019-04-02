@@ -225,13 +225,13 @@ Follow your whole journey and memorize it
 
    
 
-5. Wanted to modify the submission because of the typo but he couldn’t. 
+5. Wanted to modify the submission because of the typo, but he couldn’t. 
 
    Participant : P3
 
    Criticality : Low
 
-   Solution : We didn’t thought about this but we can add this flow to the storyboard.
+   Solution : We didn’t think about this, but we can add this flow to the storyboard.
 
    
 
@@ -241,7 +241,7 @@ Follow your whole journey and memorize it
 
    Criticality : High
 
-   Solution : As we designed to show “My Travel Summary” for each travel, this functionality is necessary. We need to make a whole new design in “My Quest” page to include functionality of grouping among quests. 
+   Solution : As we designed to show “My Travel Summary” for each traveler, this functionality is necessary. We need to make a whole new design in “My Quest” page to include the functionality of grouping among quests. 
 
    
 
@@ -249,13 +249,13 @@ Follow your whole journey and memorize it
 
 
 
-1. Wanted to see the photos taken and the travel summaries from their previous travel in the “ My page” instead of the lists of quests that they have completed. In other words, the user prefer that their profile page could function as their travel diary.
+1. Wanted to see the photos taken and the travel summaries from their previous travel in the “ My page” instead of the lists of quests that they have completed. In other words, the user prefers that their profile page could function as their travel diary.
 
    Participant : P2, P3
 
    Criticality : High
 
-   Solution : Provide list of images the user had uploaded in “My page” with the quest completed. 
+   Solution : Provide a list of images the user had uploaded in “My page” with the quest completed. 
 
    
 
@@ -265,7 +265,7 @@ Follow your whole journey and memorize it
 
    Criticality : Low
 
-   Solution : Perhaps providing system message or notification of what the users can do with “Points” would be great. Tutorial for “Points” system after signing up might be a great idea. Also we didn’t make enough discussions about how to reward based on points the users got yet. We will add features after it is fixed.  
+   Solution : Perhaps providing system message or notification of what the users can do with “Points” would be great. Tutorial for “Points” system after signing up might be a great idea. Also, we didn’t make enough discussions about how to reward based on points the users got yet. We will add features after it is fixed.  
 
    
 
@@ -273,18 +273,38 @@ Follow your whole journey and memorize it
 
 
 
-* Kyungmo : facilitator
+- Kyungmo : facilitator
 
-* Minyeop: computer
+  1. It was hard to elicit some users who do not tend to give feedback. Even if they are stuck on some part, they did not ask how to proceed. It was hard to find the balance between eliciting the user and leading the user.
 
-* Hajun : observer
-* Yoseph: observer
+     
+
+- Minyeop: computer
+
+  1. Since I cannot speak anything, when the user confused what to do with the prototype, it was frustrating that I can only speak “Just Click That Button!” in my mind.
+
+  2. It was panic when the user does act but it is not implemented on prototype. But I cannot tell to the user that it is not implemented.
+
+     
+
+- Hajun : observer
+
+  1. It was very hard to observe and record at the same time. When one participant tried to click on something which was not clickable, and at the same time complaining about some other usability issue, my typing couldn’t follow the speed of the participant’s act. I later decided to just type only key words or merely page numbers and fill in afterwards.
+
+  2. I had to find out what the user actually wanted to do, but I couldn’t speak so I had to ask after the session was over. By just looking at what the user doing, it was really hard to know whether if it was a problem or not because in most of the cases, user didn’t complain explicitly about the design.   
+
+     
+
+- Yoseph: observer
+
+  1. Our prototype consists of different types of pages and pop-ups. Although every single one of them have been labelled, sometimes it is still difficult to keep track of, especially when the participant changes the page very quickly, which make me and the other observer difficult time in typing the important information. Therefore, some minor details might be missing. Nevertheless, it does not change the overall result that our group gets from the simulation.
+  2. The participant feedback expression during the simulation is a very important factor that can determine the improvement of our prototype and it is crucial that the observer record everything. However, due to the slow response of the paper prototype, it blurs the expression, whether the participant is thinking hard or just plainly confuse. However, it was not something unsolvable, as we tried to clarify it at the end of the simulation and ask further details for more information. 
 
 
 
 ## Studio Reflections 
 
-1. I wish to know prototype cased by tasks.
+1. I wish to know the prototype cased by tasks.
 
    : True. It would be better if we add one line of sentence to indicate what tasks are done in prototype slide.
 
@@ -292,11 +312,11 @@ Follow your whole journey and memorize it
 
 2. You had added pictures next to the problems so we could see where the problems were. 
 
-   : It will be more effective if we shows pictures while explaing problems. However, we did not have enough time to show pictures while explaining problems. 
+   : It will be more effective if we show pictures while explain problems. However, we did not have enough time to show pictures while explaining problems. 
 
    
 
-3. Task be more specific/descriptive, what is quests about?
+3. Task be more specific/descriptive, what are the quests about?
 
    : Some participants are also confused about the term 'quest' . It would be better if we add one line of description about the quest.
 
@@ -314,29 +334,24 @@ Follow your whole journey and memorize it
 
    
 
-7. just pick some important observations to present?
+6. just pick some important observations to present?
 
    : True. We wanted to show detailed observation result, but it took too much time.
 
    
 
-9. What are the rewards for the local guides
+7. What are the rewards for the local guides
 
    : Since our target user is about traveler, we did not explained about local guides. Obviously, local guides are also our user. Therefore, we need to make another service for local people who can earn money by providing quests.
 
    
 
-10. How are photos validated?
+8. How are photos validated?
 
-    : Our first idea was when travelers upload their photos, then local people who gave this quest checks it. or we can use geo-tagged photos to verify them.
+   : Our first idea was when travelers upload their photos, then local people who gave this quest checks it. or we can use geo-tagged photos to verify them.
 
-    
+   
 
-11. what you wrote as an individual reflection is ‘observation’. When writing a report, individual reflection should be about individual experience of running/organizing observation.
+9. what you wrote as an individual reflection is ‘observation’. When writing a report, individual reflection should be about individual experience of running/organizing observation.
 
-    : After taking this feedback, we introduce our impressions while showing paper prototype to the participant.
-
-
-
-
-
+   : After taking this feedback, we introduce our impressions while showing paper prototype to the participant.
