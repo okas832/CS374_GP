@@ -10,7 +10,7 @@
 
 ## Prototype
 
-<img align = "left" src="./1.jpg" height="200">
+<img align = "left" src="./1.JPG" height="200">
 
 
 
