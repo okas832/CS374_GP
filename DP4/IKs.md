@@ -9,7 +9,7 @@ Travelers need to get memorable, niche and immersive experiences from traveling,
 1. Plan travel with suggested quests.
    * "I want to go on a travel with fun quests!"
 2. Make memories during the journey with chosen quests.
-   * "After the long journey, I finally completed quests! How can I complete"
+   * "After the long journey, I finally completed quests! How can I complete?"
 3. Look up your past track of the trip.
    * "I want to see all the progress made so far. Good days..."
 
