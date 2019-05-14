@@ -30,7 +30,7 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 * Representative Screen shots
   * Main page
 
-    <img src="./main_1.png" width="250">
+    <img src="./main_1.PNG" width="250">
 
     This is main page of our website. User can start by clicking 'start here'
 
