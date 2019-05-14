@@ -67,7 +67,7 @@ We focus on young adult (age of 21 to 35) travelers who can speak English, trave
 
   * Travel Summary page
 
-    <img src="./summary_1.PNG" width="250">
+    <img src="./summary_new.png" width="250">
 
     When the users click 'I finish my trip' button on previous page, it shows the tracks of this trip. 
 
