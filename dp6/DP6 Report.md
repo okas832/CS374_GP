@@ -3,7 +3,7 @@
 * Team member : Kyungmo Kim, Hajun Kim, Minyeop Choi, Yoseph Kurnia Soenggoro
 
 ## POV
-Travelers who need to get memorable, niche and immersive experiences from traveling, rather than just visiting a certain area and do something which is trivial(e.g. Sightseeing, enjoy the meal) because frequent travelers often feel sick with the same pattern.
+Travelers who need to get memorable, niche and immersive experiences of traveling, rather than just visiting a certain area and do something which is trivial(e.g. Sightseeing, enjoy the meal) because frequent travelers often feel sick with the same pattern.
 
 ## Task
 *  Plan travel with suggested quests.
@@ -32,13 +32,13 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
     <img src="./main_1.PNG" width="250">
 
-    This is main page of our website. User can start by clicking 'start here'
+    This is the main page of our website. The user can start by clicking 'start here'
 
-  * Find Guide and Quest page
+  * Find Guides and Quest page
 
     <img src="./guide_1.PNG" width="250">
 
-    User can find their quests provided by guides.
+    User can find their quests provided by the guides.
 
     <img src="./guide_2.PNG" width="250">
 
@@ -105,7 +105,7 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
 * What were some of the difficulties you faced?
 
-   * I think designing the layout, choosing the right colors (background, text color, icons), and choosing the fonts that represents something fun for the travel summary page that is aesthetically pleasing to look is very difficult. Moreover, choosing the informations need to be displayed such that it provide simplicity to the user requires a lot of consideration needs to be taken.
+   * I think designing the layout, choosing the right color (background, text color, icons), and choosing the fonts that represents something fun for the travel summary page that is aesthetically pleasing to look is very difficult. Moreover, choosing the information need to be displayed such that it provides simplicity to the user requires a lot of consideration needs to be taken.
 
    * One of the idea for our website is to implement some gamification and I think animation plays a huge role in providing the use the ‘game’ feeling. Not only choosing what to implement is difficult, but implementing them in code is a challenge itself. I took a lot of time in searching for codes that give certain features (e.g. star ratings, game experience bar, etc) as they are taught in lectures or tutorials.
 
@@ -159,17 +159,17 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
 * Which part of the UI did you directly contribute to?
 
-   * I contributed on ‘My Quest’ tab on the webpage. 
+   * I contributed on ‘My Quest’ tab on the web page. 
 
 * What were some of the difficulties you faced?
 
-   * The most difficult part was database unification part. ‘My Quest’ tab shows quest added from ‘Find Guide & Quest’ tab, which is implemented by Hajun Kim. Therefore, we need to discuss what data scheme do we need , and need to let other person know if database scheme should be fixed. 
+   * The most difficult part was database unification part. ‘My Quest’ tab shows quest added from ‘Find Guide & Quest’ tab, which is implemented by Hajun Kim. Therefore, we need to discuss what data scheme do we need , and need to let other people know if the database scheme should be fixed. 
 
-   * I begun to implement dynamic part like retrieving data from firebase, or fill in the table using retrieved data before finishing my design. Therefore, it makes lots of difficulties on changing overall design, even if I came up with a  better design. 
+   * I have begun to implement dynamic part like retrieving data from firebase, or fill in the table using retrieved data before finishing my design. Therefore, it makes lots of difficulties in changing overall design, even if I came up with a  better design. 
 
 * List one useful implementation skill you learned while working on DP5 and DP6.
 
-   * I learned what kind of difficulties we stumble upon while communicating with others. Implementation of DP5 and DP6  was not very difficult compare to PR3. However, we need to keep discussing about data scheme or webpage transition with collegue.  I cannot change my data even if the modifications are needed, and explain the meanings of variables on the database. 
+   * I learned what kind of difficulties we stumble upon while communicating with others. Implementation of DP5 and DP6  was not very difficult comparing to PR3. However, we need to keep discussing about the data scheme or the webpage transition to college.  I cannot change my data even if the modifications are needed, and explain the meanings of variables on the database. 
 
      
 
@@ -178,12 +178,12 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
 * I wish the number of points was more legible
 
-	* We will change the style for text so that point texts are more legible.
+	* We will change the style of text so that point texts is more legible.
 
-* I wish ‘find guide and quest’ page is more understandable. Where is guide and what they are for?
+* I wish ‘find guides and quest’ page is more understandable. Where is the guide and what they are for?
 
-	* In this webpage, ‘guide’ stands for ‘quest provider’. Basically guide does not accompany the trip. It will be better to add tutorials for each pages, so that user does not confused with the terminologies. We will also emphasize the word “Guide” and “Quest” to easily recognize which is which. 
+	* In this webpage, ‘guide’ stands for ‘quest provider’. Basically guide does not accompany the trip. It will be better to add tutorials for each page, so that user does not confused with the terminologies. We will also emphasize the word “Guide” and “Quest” to easily recognize which is which. 
 
 * Do Photos show all photos during the trip or merely show submitted or uploaded photos?
 
-	* All photos, shown in travel summary pages, are uploaded when user click ‘complete quest’ button on myQuest page.  
+	* All photos, shown in travel summary pages, are uploaded when user click ‘complete quest’ button on my quest page.  
