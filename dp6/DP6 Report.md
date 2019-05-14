@@ -36,11 +36,11 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
   * Find Guide and Quest page
 
-    <img src="./guide_1.png" width="250">
+    <img src="./guide_1.PNG" width="250">
 
     User can find their quests provided by guides.
 
-    <img src="./guide_2.png" width="250">
+    <img src="./guide_2.PNG" width="250">
 
     When the user click the image of the guide, the user can select quests provided by this guide.
 
@@ -50,11 +50,11 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
   * My Quest page
 
-    <img src="./quest_1.png" width="250">
+    <img src="./quest_1.PNG" width="250">
 
     User can check quests added on previous page. 
 
-    <img src="./quest_2.png" width="250">
+    <img src="./quest_2.PNG" width="250">
 
     
 
@@ -64,11 +64,11 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
   * Travel Summary page
 
-    <img src="./summary_1.png" width="250">
+    <img src="./summary_1.PNG" width="250">
 
     When the users click 'I finish my trip' button on previous page, it shows the tracks of this trip. 
 
-    <img src="./summary_2.png" width="250">
+    <img src="./summary_2.PNG" width="250">
 
     Photos and diaries uploaded by the users on the previous page can be seen here. 
 
@@ -78,7 +78,7 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
   * Ranking page
 
-    <img src="./rank_1.png" width="250">
+    <img src="./rank_1.PNG" width="250">
 
     Users can compare their stats with others in ranking page. 
 
@@ -89,7 +89,7 @@ Travelers who need to get memorable, niche and immersive experiences from travel
 
   * My page
 
-    <img src="./mypage_1.png" width="250">
+    <img src="./mypage_1.PNG" width="250">
 
     Users can check how many quests are cleared, and points are earned on my page. 
 
