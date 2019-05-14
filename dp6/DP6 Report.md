@@ -18,7 +18,7 @@ We focus on young adult (age of 21 to 35) travelers who can speak English, trave
 
 *  Look up your past track of the trip.
    * "I want to see all the progress made so far. Good days..."
-*  Earn points on the trip, and compare with others.
+*  Compete with other travelers with how much do you love travel
    * "I want to gather more points to compete my friend!"
 
 ## Implementation Note
@@ -85,7 +85,7 @@ We focus on young adult (age of 21 to 35) travelers who can speak English, trave
 
     Users can compare their stats with others in ranking page. 
 
-    This page is related to task 4, which is 'Earn points on the trip, and compare with others'
+    This page is related to task 4, which is 'Compete with other travelers with how much do you love travel'
 
 
 ​    
@@ -171,8 +171,9 @@ We focus on young adult (age of 21 to 35) travelers who can speak English, trave
    * I have begun to implement dynamic part like retrieving data from firebase, or fill in the table using retrieved data before finishing my design. Therefore, it makes lots of difficulties in changing overall design, even if I came up with a  better design. 
 
 * List one useful implementation skill you learned while working on DP5 and DP6.
+   * I learned how to deal with asynchronous function call and how does call back function work on Javascript. We deal with lots of data retrieved from online. Therefore, understanding asynchronous and callback knowledge was crucial for this project. Now I understand these two concept, and able to add html component dynamically by using data from asynchronous function call.
 
-   * I learned what kind of difficulties we stumble upon while communicating with others. Implementation of DP5 and DP6  was not very difficult comparing to PR3. However, we need to keep discussing about the data scheme or the webpage transition to college.  I cannot change my data even if the modifications are needed, and explain the meanings of variables on the database. 
+   * Besides the implementation skills, I also learned what kind of difficulties we stumble upon while communicating with others. Implementation of DP5 and DP6  was not very difficult comparing to PR3. However, we need to keep discussing about the data scheme or the webpage transition to college.  I cannot change my data even if the modifications are needed, and explain the meanings of variables on the database. 
 
      
 
