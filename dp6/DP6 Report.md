@@ -5,6 +5,9 @@
 ## POV
 Travelers who need to get memorable, niche and immersive experiences of traveling, rather than just visiting a certain area and do something which is trivial(e.g. Sightseeing, enjoy the meal) because frequent travelers often feel sick with the same pattern.
 
+## Target User
+We focus on young adult (age of 21 to 35) travelers who can speak English, travel more frequent than once every six months, prefer backpack traveling rather than package trips, has passion about the trip, and likes to accomplish the goals.
+
 ## Task
 *  Plan travel with suggested quests.
    * "I want to go on a travel with fun quests!"
