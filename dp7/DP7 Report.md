@@ -127,8 +127,8 @@ Thank you for investing your valuable time on participating in our user testing 
   
 
 * Participant 3
-   <img src="./P3.jpg" width="250">
 
+   <img src="./P3.jpg" width="250">
 
   Korean, 22 years old, KAIST undergraduate student
 
