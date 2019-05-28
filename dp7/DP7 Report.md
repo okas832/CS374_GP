@@ -319,7 +319,7 @@ Among the usability issues, 'Technical problems' are the most important problems
 
 After then, we will fix 'Recognition problems' from high severity, because these problems directly hinder the overall quality of the website.
 
-If we fixed there two problems within time, we will add functionality suggested on 'lack of contents problems'
+If we fixed these two problems within time, we will add functionality suggested on 'lack of contents problems'
 
 
 
