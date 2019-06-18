@@ -20,15 +20,15 @@
 2. Quality Arguments
 
 Menu bar
-Navigation is a highly essential element to have within a website and without it, the users will have trouble in searching or achieving their objectives. In our website, we implement such feature on the menu bar. The menu bar is the central feature of our website because it provides the users a hub to navigate within our website in easy and simple manner. Since the menu bar exists within every pages in our website, it provides the user flexibility to ‘move’ freely from pages to pages. This is important because during the trip, the users might discard some of their initially chosen quests and might want to add additional quests as replacements. By using the menu bar, the possibility exists.
+Navigation is a highly essential element to have within a website. Without this component, the users will have trouble in searching or achieving their objectives. In our website, we implement such feature on the menu bar. The menu bar is the central feature of our website because it provides the users a hub to navigate within our website in easy and simple manner. Since the menu bar exists within every pages in our website, it provides the user flexibility to ‘move’ freely from pages to pages. This is important because during the trip, the users might discard some of their initially chosen quests and might want to add additional quests as replacements. By using the menu bar, the possibility exists.
 
 Bootstrap Carousel & Accordion in Find Your Guide & Quest page:
 Adopted Carousel for showing multiple images without minifying images. Users can immediately have abstract concept of what the users would do for the quest by looking at images one by one. 
-Used Accordion to hide details about quests that the guide provides. Organizing contents first by guides and next by quests allows users to find interesting guides really fast and efficiently. 
+Used 'Accordion component' to hide details about quests that the guide provides. Organizing contents first by guides and next by quests allows users to find interesting guides really fast and efficiently. 
 
 
 Buttons with high information scent in my quest page:
-User have freedom to complete, or quit their quests. The users do not have to struggle with finding buttons to accomplish their desire, because every buttons on this page have color with green(safe), blue(safe), and red(danger). Also, we shows pop up to ask the users again.
+User have freedom to complete, or quit their quests. The users do not have to struggle with finding buttons to accomplish their desire, because every buttons on this page have color with green(safe), blue(safe), and red(danger). Also, we shows pop up to nip a potential mistake in the bud.
 
 Giving a feedback when user upload the photo in my quest page:
 In first implementation, we did not add any visual feedback when the users upload their photo. After we got several feedbacks from user, we shows spinner when uploading process is executing. It helps the users to feel less confusion.  
