@@ -35,7 +35,8 @@ In first implementation, we did not add any visual feedback when the users uploa
 
 
 #### Iteration
-- We got lots of feedbacks from the last design project but we were running out of time because of the finals. Our team met two times before the final demo session and discussed about who will improve what and how to present our demo. We decided to focus on addressing some high priority issues we discussed in DP7. 
+We got lots of feedbacks from the last design project but we were running out of time because of the finals. Our team met two times before the final demo session and discussed about who will improve what and how to present our demo. We decided to focus on addressing some high priority issues we discussed in DP7. 
+
 -  Disable button when user did not upload the photo
 
 Before
