@@ -66,7 +66,7 @@ Thankfully, Every team member faithfully participated the regular meeting twice 
 The problem of teamwork is that separation of the work makes the difficulty on iteration part, because we did not exactly know how does other colleagues’ web page works.  For example, when I find some defect or some part that can be improved on colleagues’ part, I could not solve this issue by myself, but told my colleague ‘I think it would be better if you fix this part.’ As a sequence, it required more communications between team members, and time. However, I felt that meeting twice a week was not enough for solving this problem, because improvement  is a difficult process, but also miscommunication between team member caused the result of improvement was different with my initial intent.
 Therefore, we learned that the most important part of teamwork is to discuss and share about ideas more often in order to close the gap between ‘my suggestion’ and ‘ colleagues’ actual implementation’. This would make more satisfying and high - quality result.  
  
-Through the team-based design project experience, what did you learn about the user-centered design process and web-based GUI implementation?
+*Through the team-based design project experience, what did you learn about the user-centered design process and web-based GUI implementation?*
  
 The most impressive experience while conducting user experiments was that what we thought user-centered was NOT user-centered. I initially thought that ‘Enjoying the trip while complete quests’ was easy concept to understand, and plain for everyone. However, when we tested low-fi prototype, I was a little bit disappointed because user seemed too confused than what I expected. At that time, I realized that I became too tolerant about concept of user-centered design.
 I reckon the reason why this happened was because the unfamiliarity of web-based GUI implementation makes our goal toward ‘barely functionally working web page’, not ‘user-centered web page.’
@@ -81,7 +81,21 @@ At any rate, The most important lesson that I learned is that users are always r
 
 3. Hajun Kim
 
-Thank you for our professor and TAs for preparing this exciting course. For all design projects, we decided to “divide and conquer” except for some parts that needed discussions. 
+Thank you for our professor and TAs for preparing this exciting course. For all design projects, we decided to “divide and conquer” except for some parts that needed discussions. In general, we discussed what to do and how to do at the early meeting for 1~2 hours and after doing work individually, we gather up and fill in the report contents roughly for 3~4 hours. In DP8, For example, Kyongmo and I took a video, Minyeop did video editing and Yoseph finalized our report. By doing teamwork like this, we could finish our job very fast, utilizing parallel execution. We could also have a feeling of being in charge of some part of our project. Therefore there were no “bus driver” in our team. While this “divide and conquer” had some advantages, there was a very critical disadvantage. Because of the total separation of workflow, it was very hard to maintain design consistency(color, font, layout) in our website. We could have done this much better if we had a leader who manages entire design or made paper prototype closer to the final product. Teamwork was overall good I think. Even if we had some disputes, we could make a decision by making enough discussions and sometimes, by inevitably doing a rock scissors paper. The most significant hurdle was that we had a foreign student, Yoseph, which encouraged us to solely speak in English during the entire semester. Since we all didn’t have much experiences with talking to foreign students, this was a huge challenge for all of our teammates. I practiced speaking English every day and I feel like I’ve got much better than before. In terms of design process, I could have a taste of what the user-centered design process(needfinding, ideation, paper prototyping, low-fi, mid-fi, high-fi prototyping, user testing, presentation) is and how to apply it. By understanding how human visual, recognition and reaction system works(human processor) and interacts with the device(Fitt’s law), I could have insights(heuristic evaluation) about what is the rationale behind some design aspects of the particular product. Iterative design process, which involves user testing in a various ways, was very interesting because I never knew testing is this much important to test our intention of the design. I quite regret about not being an expert in web-based implementation(Web browser internals, UI software architecture, I/O, HTML/CSS/JavaScript) prior to listening to this course. I could have focused more on considering the usability dimensions(learnability, efficiency, safety) for our final product if programming was not a bottleneck. 
+
 
 4. Minyep Choi
+
+*What worked well and not in your team? How did you overcome any hurdle in teamwork? What lesson about teamwork did you learn that you might apply to your next team project?*
+
+Since our webpage was very chained to each pages, so it was hard to design the structure to fulfill all of pages. But by discussing every time we met, we can design the structure of website much faster than i thought.
+Problem on working our webpage, since we assigned the part to develop to each teammate, the design of each page was different that cannot be fix in short time because of own design sense. By handling the minor parts of the each webpage, we tried to unify the design of the webpage. If I have to make the website once more, team will have to discuss more about the designing the template and the components of the websites in detail.
+
+
+*Through the team-based design project experience, what did you learn about the user-centered design process and web-based GUI implementation?*
+
+Before taking the class, I always develop the website without any prototypes. So even if the backend is clear, frontend was a mess. But by learning the prototyping of our website, I could make more better designed website than before and I can consider more in detail parts too. GUI implementation remind me that CSS doesn’t follow my expectation. I think that I have to learn more.
+
+#### Video URL
+https://youtu.be/lYNRETBsAAM
 
